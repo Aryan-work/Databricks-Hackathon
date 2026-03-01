@@ -1,5 +1,5 @@
 # 🌾 Databricks Hackathon Submission  
-### Aryan Sharma • Daniel • Varun  
+### Aryan • Daniel • Varun  
 
 🎥 **Demo Video:**  
 https://youtu.be/Ezpgv-hSWfg  
